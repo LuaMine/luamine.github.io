@@ -1,117 +1,465 @@
-<?xml version="1.0" ?>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://luamine.github.io/docs/en/changelog/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/about/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/getVersion/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/execute/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/broadcast/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/log/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/color/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/SchedulerFunctions/wait/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/VisualFunctions/sound/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/VisualFunctions/title/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/kick/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/getName/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/sendMessage/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/onChat/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerInteract/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/onBlockBreak/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerJoin/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/main/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerHit/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/changelog/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/about/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/getVersion/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/execute/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/broadcast/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/log/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/color/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/SchedulerFunctions/wait/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/VisualFunctions/sound/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/VisualFunctions/title/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/kick/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/getName/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/sendMessage/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/onChat/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerInteract/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/onBlockBreak/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerJoin/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/main/</loc>
-  </url>
-  <url>
-    <loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerHit/</loc>
-  </url>
+<url>
+<loc>https://luamine.github.io/docs/en</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/onBlockBreak.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerJoin.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerInteract.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/onPlayerHit.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/VisualFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/onChat.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/sendMessage.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/en</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/changelog.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/SchedulerFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/onBlockBreak.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/VisualFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerInteract.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/changelog.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/SchedulerFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/about.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/SchedulerFunctions/wait.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/getName.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/CommandFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/VisualFunctions/sound.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/CommandFunctions/registerCommand.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/about.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/VisualFunctions/sound.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerHit.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/main.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/VisualFunctions/title.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/kick.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/ChatFunctions/sendMessage.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/onPlayerJoin.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/setMaxHealth.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/getPitch.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/getPosition.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/SchedulerFunctions/wait.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/CommandFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/getYaw.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/addEffect.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/heal.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/getPitch.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/broadcast.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/EventCallbacks/main.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/getName.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/addEffect.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/damage.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/VisualFunctions/title.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/ChatFunctions/kick.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/setHealth.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/teleport.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/teleport.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/EventCallbacks/onChat.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/damage.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/color.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/setMaxHealth.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/log.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/CommandFunctions/registerCommand.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/log.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/PlayerFunctions/removeEffect.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/heal.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/getPosition.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/getYaw.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/execute.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/getVersion.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/broadcast.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/removeEffect.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/color.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/GeneralFunctions/getVersion.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/en/Minecraft/PlayerFunctions/setHealth.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://luamine.github.io/docs/ru/Minecraft/GeneralFunctions/execute.html</loc>
+<lastmod>2026-08-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
